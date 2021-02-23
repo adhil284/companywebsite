@@ -106,13 +106,17 @@ Publish the website in the given URL.
 {% endblock  %}
 ```
 ## OUTPUT:
-![output](./static/img/output1.jpg)
+![output](./static/img/1.png)
 
-![output](./static/img/output1.jpg)
+![output](./static/img/2.png)
+
+![output](./static/img/3.png)
+
+![output](./static/img/4.png)
 
 ## CODE VALIDATION REPORT:
-![output](./static/img/report1.jpg)
+![output](./static/img/6.png)
 
-![output](./static/img/report2.jpg)
+![output](./static/img/7.png)
 ## RESULT:
 Thus a website is designed for the chip manufacturing company and is hosted in the URL http://demo2.student.saveetha.in:8000/. HTML code is validated.
